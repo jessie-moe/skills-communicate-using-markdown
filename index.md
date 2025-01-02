@@ -6,3 +6,10 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Things to do
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself
+      
