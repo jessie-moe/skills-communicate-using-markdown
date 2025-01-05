@@ -8,5 +8,9 @@
 x = "Hello World"
 print(%x)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline Portfolio
+- [ ] Say Hello
+- [ ] NEVER CHECK THIS BOX!
 
 Site created by Jessie Moe
